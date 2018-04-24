@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/ChangeCounter.Tests.deps.json
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/ChangeCounter.Tests.runtimeconfig.json
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/ChangeCounter.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/obj/Debug/netcoreapp1.1/ChangeCounter.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/ChangeCounter.Tests.dll
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/ChangeCounter.Tests.pdb
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/ChangeCounter.dll
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/bin/Debug/netcoreapp1.1/ChangeCounter.pdb
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/obj/Debug/netcoreapp1.1/ChangeCounter.Tests.dll
+/Users/Guest/Desktop/ChangeCounter.Solutions/ChangeCounter.Tests/obj/Debug/netcoreapp1.1/ChangeCounter.Tests.pdb
